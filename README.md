@@ -1,0 +1,4 @@
+hpcoin
+======
+
+Cryptocurrency coin
